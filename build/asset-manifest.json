@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/riddle/static/css/main.dbcc2cb2.chunk.css",
+    "main.js": "/riddle/static/js/main.567c2b84.chunk.js",
+    "main.js.map": "/riddle/static/js/main.567c2b84.chunk.js.map",
+    "runtime-main.js": "/riddle/static/js/runtime-main.36f1a71d.js",
+    "runtime-main.js.map": "/riddle/static/js/runtime-main.36f1a71d.js.map",
+    "static/js/2.701dbc4b.chunk.js": "/riddle/static/js/2.701dbc4b.chunk.js",
+    "static/js/2.701dbc4b.chunk.js.map": "/riddle/static/js/2.701dbc4b.chunk.js.map",
+    "static/js/3.74050d98.chunk.js": "/riddle/static/js/3.74050d98.chunk.js",
+    "static/js/3.74050d98.chunk.js.map": "/riddle/static/js/3.74050d98.chunk.js.map",
+    "index.html": "/riddle/index.html",
+    "static/css/main.dbcc2cb2.chunk.css.map": "/riddle/static/css/main.dbcc2cb2.chunk.css.map",
+    "static/js/2.701dbc4b.chunk.js.LICENSE.txt": "/riddle/static/js/2.701dbc4b.chunk.js.LICENSE.txt",
+    "static/media/bg.1129ebf2.jpg": "/riddle/static/media/bg.1129ebf2.jpg",
+    "static/media/rick-roll-rick-ashley.bb756259.gif": "/riddle/static/media/rick-roll-rick-ashley.bb756259.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36f1a71d.js",
+    "static/js/2.701dbc4b.chunk.js",
+    "static/css/main.dbcc2cb2.chunk.css",
+    "static/js/main.567c2b84.chunk.js"
+  ]
+}
